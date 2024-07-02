@@ -1,0 +1,113 @@
+2024-07-02 15:08:55.538 [main] INFO  c.e.j.g.GenesisResourcesApplication - Starting GenesisResourcesApplication using Java 21.0.1 with PID 18052 (C:\Project\JavaAcademy_ProjectGenesis\target\classes started by heni in C:\Project\JavaAcademy_ProjectGenesis)
+2024-07-02 15:08:55.542 [main] INFO  c.e.j.g.GenesisResourcesApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:08:56.887 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-02 15:08:56.902 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-02 15:08:56.903 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-07-02 15:08:56.965 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-02 15:08:56.966 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1368 ms
+2024-07-02 15:08:57.046 [main] INFO  c.e.j.g.util.AppLogger - Start loading person IDs from file: dataPersonId.txt
+2024-07-02 15:08:57.047 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: jXa4g3H7oPq2
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: yB9fR6tK0wLm
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: cN1vZ8pE5sYx
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: tQdG2kP3mJfB
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: iM5sO6zXcW7v
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: rU8nA9eT2bYh
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: wV6eH1fK7qZj
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: sL4gN9dC3bXz
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: kR0aZ7vW2nDl
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: eI1oY6tQ9dKj
+2024-07-02 15:08:57.048 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: gT4cR7wS0lVx
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: xF9hD2yJ3sWv
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: hM5bZ8nK4aVf
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: qE3lY6uT0vKd
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: bG2zC7jR9xVp
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: vB1fX4rH7iNt
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: aO8kP3mZ6dIw
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: dW9pL2eU1yNc
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: nS7tJ0qR5wGh
+2024-07-02 15:08:57.049 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: mY6sT1jA3cLz
+2024-07-02 15:08:57.050 [main] INFO  c.e.j.g.util.AppLogger - Successfully loaded 20 valid person IDs from file: dataPersonId.txt
+2024-07-02 15:08:57.500 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-07-02 15:08:57.507 [main] INFO  c.e.j.g.util.AppLogger - Genesis Resources Application started.
+2024-07-02 15:08:57.510 [main] INFO  c.e.j.g.GenesisResourcesApplication - Started GenesisResourcesApplication in 2.567 seconds (process running for 3.555)
+2024-07-02 15:08:59.026 [main] INFO  c.e.j.g.GenesisResourcesApplication - Starting GenesisResourcesApplication using Java 21.0.1 with PID 23104 (C:\Project\JavaAcademy_ProjectGenesis\target\classes started by heni in C:\Project\JavaAcademy_ProjectGenesis)
+2024-07-02 15:08:59.032 [main] INFO  c.e.j.g.GenesisResourcesApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:09:00.074 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-02 15:09:00.085 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-02 15:09:00.085 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-07-02 15:09:00.132 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-02 15:09:00.134 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1032 ms
+2024-07-02 15:09:00.187 [main] INFO  c.e.j.g.util.AppLogger - Start loading person IDs from file: dataPersonId.txt
+2024-07-02 15:09:00.187 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: jXa4g3H7oPq2
+2024-07-02 15:09:00.187 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: yB9fR6tK0wLm
+2024-07-02 15:09:00.187 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: cN1vZ8pE5sYx
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: tQdG2kP3mJfB
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: iM5sO6zXcW7v
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: rU8nA9eT2bYh
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: wV6eH1fK7qZj
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: sL4gN9dC3bXz
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: kR0aZ7vW2nDl
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: eI1oY6tQ9dKj
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: gT4cR7wS0lVx
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: xF9hD2yJ3sWv
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: hM5bZ8nK4aVf
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: qE3lY6uT0vKd
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: bG2zC7jR9xVp
+2024-07-02 15:09:00.188 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: vB1fX4rH7iNt
+2024-07-02 15:09:00.189 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: aO8kP3mZ6dIw
+2024-07-02 15:09:00.189 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: dW9pL2eU1yNc
+2024-07-02 15:09:00.189 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: nS7tJ0qR5wGh
+2024-07-02 15:09:00.189 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: mY6sT1jA3cLz
+2024-07-02 15:09:00.189 [main] INFO  c.e.j.g.util.AppLogger - Successfully loaded 20 valid person IDs from file: dataPersonId.txt
+2024-07-02 15:09:00.553 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-07-02 15:09:00.578 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-07-02 15:09:00.613 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-07-02 15:09:17.547 [SpringApplicationShutdownHook] INFO  c.e.j.g.util.AppLogger - Genesis Resources Application shutting down.
+2024-07-02 15:11:27.340 [main] INFO  c.e.j.g.GenesisResourcesApplication - Starting GenesisResourcesApplication using Java 21.0.1 with PID 22980 (C:\Project\JavaAcademy_ProjectGenesis\target\classes started by heni in C:\Project\JavaAcademy_ProjectGenesis)
+2024-07-02 15:11:27.344 [main] INFO  c.e.j.g.GenesisResourcesApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-02 15:11:28.330 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-07-02 15:11:28.343 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-02 15:11:28.343 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-07-02 15:11:28.396 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-02 15:11:28.398 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 984 ms
+2024-07-02 15:11:28.451 [main] INFO  c.e.j.g.util.AppLogger - Start loading person IDs from file: dataPersonId.txt
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: jXa4g3H7oPq2
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: yB9fR6tK0wLm
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: cN1vZ8pE5sYx
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: tQdG2kP3mJfB
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: iM5sO6zXcW7v
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: rU8nA9eT2bYh
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: wV6eH1fK7qZj
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: sL4gN9dC3bXz
+2024-07-02 15:11:28.452 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: kR0aZ7vW2nDl
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: eI1oY6tQ9dKj
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: gT4cR7wS0lVx
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: xF9hD2yJ3sWv
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: hM5bZ8nK4aVf
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: qE3lY6uT0vKd
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: bG2zC7jR9xVp
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: vB1fX4rH7iNt
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: aO8kP3mZ6dIw
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: dW9pL2eU1yNc
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: nS7tJ0qR5wGh
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Loaded personID: mY6sT1jA3cLz
+2024-07-02 15:11:28.453 [main] INFO  c.e.j.g.util.AppLogger - Successfully loaded 20 valid person IDs from file: dataPersonId.txt
+2024-07-02 15:11:28.794 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-07-02 15:11:28.801 [main] INFO  c.e.j.g.util.AppLogger - Genesis Resources Application started.
+2024-07-02 15:11:28.803 [main] INFO  c.e.j.g.GenesisResourcesApplication - Started GenesisResourcesApplication in 1.928 seconds (process running for 2.532)
+2024-07-02 15:11:42.530 [SpringApplicationShutdownHook] INFO  c.e.j.g.util.AppLogger - Genesis Resources Application shutting down.
